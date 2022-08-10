@@ -1,2 +1,2 @@
 # DEMO-repo
-lerning git
+lerning git and github
